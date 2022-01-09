@@ -1,0 +1,21 @@
+${c1}
+   AAAAAAAAAAAAAAAAAAA
+  AA                 AA
+ AA                   AA
+AA                     AA
+AA      AAAAAAAAAAA    AA
+AA     AA         AA   AA
+AA    AA           AA  AA
+AA   AA             AA AA
+AA  AA               AAAA
+AA  AA               AAAA
+AA   AA             AA AA
+AA    AA           AA  AA
+AA     AA         AA   AA
+AA       AAAAAAAAAA    AA
+AA
+AA
+AA
+ AA
+  AA
+   AAAAAAAAAAAAAAAAA
