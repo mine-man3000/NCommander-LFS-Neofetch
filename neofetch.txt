@@ -3,19 +3,19 @@ ${c1}
   AA                 AA
  AA                   AA
 AA                     AA
-AA      AAAAAAAAAAA    AA
-AA     AA         AA   AA
-AA    AA           AA  AA
-AA   AA             AA AA
-AA  AA               AAAA
-AA  AA               AAAA
-AA   AA             AA AA
-AA    AA           AA  AA
-AA     AA         AA   AA
-AA       AAAAAAAAAA    AA
+AA      AAAAAAAAAAAA   AA
+AA     AA          AA  AA
+AA    AA            AA AA
+AA   AA              AAAA
+AA  AA                AAA
+AA  AA                AAA
+AA   AA              AAAA
+AA    AA            AA AA
+AA     AA          AA  AA
+AA       AAAAAAAAAAA   AA
 AA
 AA
-AA
- AA
-  AA
-   AAAAAAAAAAAAAAAAA
+AA                     
+ AA                   
+  AA                 
+   AAAAAAAAAAAAAAAAAAA
